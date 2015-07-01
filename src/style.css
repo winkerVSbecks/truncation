@@ -33,6 +33,7 @@ code {
 
 .prose p {
   line-height: 1.625;
+  font-size: 1.25rem;
 }
 
 .prose blockquote {
